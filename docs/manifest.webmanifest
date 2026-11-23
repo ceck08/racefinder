@@ -1,0 +1,17 @@
+{
+  "name": "RaceFinder · Gare su strada in Europa",
+  "short_name": "RaceFinder",
+  "description": "Trova una 10 km o una mezza maratona in Italia e in tutta Europa. Gratuito, senza registrazione.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#101e28",
+  "theme_color": "#101e28",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -140,3 +140,41 @@ button.cal-day[aria-pressed="true"] { border-color:#c95c3b; background:#fff1ea }
   .results-line { flex-direction:column; align-items:flex-start; gap:10px }
   .view-actions { width:100%; justify-content:space-between }
 }
+
+/* PWA e ottimizzazione dispositivi */
+.top { position:sticky; top:0; z-index:50 }
+nav button, .view-toggle button, .cal-head button { min-height:42px }
+body { padding-bottom:env(safe-area-inset-bottom) }
+footer { padding-bottom:calc(24px + env(safe-area-inset-bottom)) }
+
+/* Schermi grandi: quattro colonne */
+@media(min-width:1400px) {
+  .wrap { width:min(1280px, calc(100% - 64px)) }
+  .grid { grid-template-columns:repeat(4,minmax(0,1fr)) }
+}
+
+/* Tablet: due colonne gia' sotto gli 850px; filtri comodi */
+@media(min-width:561px) and (max-width:850px) {
+  .hero-inner { padding-block:60px 64px }
+}
+
+/* Smartphone: filtri richiudibili */
+.filters-toggle { display:none }
+@media(max-width:560px) {
+  .filters-toggle {
+    display:flex; align-items:center; justify-content:space-between;
+    width:100%; min-height:48px; margin-bottom:12px; padding:12px 16px;
+    border:1px solid var(--line); border-radius:12px; background:white;
+    font-weight:800; font-size:.95rem; color:var(--ink);
+  }
+  .filters-toggle::after {
+    content:""; width:10px; height:10px; margin-left:10px;
+    border-right:2px solid #42545c; border-bottom:2px solid #42545c;
+    transform:rotate(45deg); transition:transform .18s ease;
+  }
+  .filters-toggle[aria-expanded="false"]::after { transform:rotate(-135deg) }
+  .filters.closed { display:none }
+  .filters { margin-top:0 }
+  button.cal-day { min-height:48px }
+  .ics { padding:8px 12px }
+}

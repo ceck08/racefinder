@@ -2,10 +2,18 @@
 <html lang="it">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="robots" content="noindex, nofollow">
   <meta name="description" content="Scopri gare su strada da 10 km e mezze maratone in Italia e in Europa.">
+  <meta name="theme-color" content="#101e28">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="RaceFinder">
   <title>RaceFinder · Gare su strada in Europa</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="stylesheet" href="styles.css">
   <script src="app.js" type="module"></script>
 </head>
@@ -34,7 +42,8 @@
         <div><p class="eyebrow">Trova la tua partenza</p><h2 id="section-title">Prossime gare</h2></div>
         <p class="edition">Anteprima privata<br>Calendari federali e organizzatori</p>
       </div>
-      <form class="filters" role="search" aria-label="Filtra gare">
+      <button id="filters-toggle" class="filters-toggle" type="button" aria-expanded="true" aria-controls="filters-panel">Filtri e ricerca</button>
+      <form class="filters" id="filters-panel" role="search" aria-label="Filtra gare">
         <label>Cerca<input id="query" type="search" placeholder="Nome della gara o città"></label>
         <label>Paese<select id="country"><option value="">Tutti i Paesi</option></select></label>
         <label>Distanza<select id="distance"><option value="">Tutte le distanze</option><option value="10">10 km (9–11 km)</option><option value="half">Mezza maratona</option></select></label>

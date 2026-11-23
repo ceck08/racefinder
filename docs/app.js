@@ -277,6 +277,25 @@ function renderCalendar() {
   calGrid.replaceChildren(...cells);
 }
 
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(() => {});
+}
+
+const filtersToggle = select('filters-toggle');
+const filtersPanel = select('filters-panel');
+const compactLayout = window.matchMedia('(max-width: 560px)');
+function syncFiltersPanel() {
+  const open = !compactLayout.matches || filtersPanel.dataset.open === 'true';
+  filtersPanel.classList.toggle('closed', !open);
+  filtersToggle.setAttribute('aria-expanded', String(open));
+}
+filtersToggle.addEventListener('click', () => {
+  filtersPanel.dataset.open = String(filtersPanel.classList.contains('closed'));
+  syncFiltersPanel();
+});
+compactLayout.addEventListener('change', syncFiltersPanel);
+syncFiltersPanel();
+
 try {
   const response = await fetch('races.json');
   if (!response.ok) throw new Error('Catalogo non disponibile');
