@@ -1,4 +1,4 @@
-const CACHE = 'racefinder-v2';
+const CACHE = 'racefinder-v3';
 const ASSETS = [
   './',
   'index.html',

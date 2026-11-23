@@ -16,7 +16,7 @@ Un workflow GitHub Actions (`.github/workflows/collect.yml`) esegue `collector/c
 
 ### Siti ufficiali delle gare
 
-Ogni scheda mostra il link «Sito ufficiale» per iscriversi sul sito dell'organizzatore. Per le gare AIMS il sito viene estratto automaticamente dal collector; per le altre fonti un'attività pianificata giornaliera su Kimi cerca il sito ufficiale sul web (massimo 25 gare al giorno, con verifica delle fonti ed esclusione di aggregatori e portali terzi), aggiorna `docs/races.json` e pubblica la modifica con un commit dedicato. Le gare senza sito individuabile restano senza link anziché rimandare a portali generici.
+Ogni scheda mostra il link «Sito ufficiale» per iscriversi sul sito dell'organizzatore (campo `website`) e, quando disponibile, la «Pagina Facebook» della gara o dell'organizzatore (campo `facebook`). Per le gare AIMS il sito viene estratto automaticamente dal collector; per le altre fonti un'attività pianificata giornaliera su Kimi cerca sul web sito ufficiale e pagina Facebook (massimo 25 gare al giorno, con verifica delle fonti ed esclusione di aggregatori e portali terzi, fatta eccezione per endu.net quando è la pagina ufficiale di iscrizione), aggiorna `docs/races.json` e pubblica la modifica con un commit dedicato. Le gare senza riferimenti individuabili restano senza link anziché rimandare a portali generici.
 
 ## Accesso e gestione (anteprima locale)
 

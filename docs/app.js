@@ -107,6 +107,12 @@ function renderRace(race) {
   } else {
     src.hidden = true;
   }
+  const fb = card.querySelector('.fb');
+  if (race.facebook) {
+    fb.href = race.facebook;
+  } else {
+    fb.hidden = true;
+  }
   if (race.addedAt && race.addedAt >= newsSince) {
     const badge = document.createElement('span');
     badge.className = 'new-badge';
