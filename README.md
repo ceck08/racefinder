@@ -6,6 +6,10 @@ Anteprima privata del calendario per 10 km su strada e mezze maratone. Il sito s
 
 RaceFinder è pubblicato su GitHub Pages: [ceck08.github.io/racefinder](https://ceck08.github.io/racefinder/). Il sito è statico e non richiede registrazione. Il codice e il catalogo sono nel repository [ceck08/racefinder](https://github.com/ceck08/racefinder).
 
+### Installazione come app (PWA)
+
+RaceFinder è una web app installabile: da iPhone «Aggiungi a Home» in Safari, da Android «Installa app» nel browser, da PC l'icona di installazione nella barra degli indirizzi. L'interfaccia è ottimizzata per smartphone (filtri richiudibili, una colonna), tablet (due colonne) e PC (fino a quattro colonne oltre i 1400 px). Il catalogo resta consultabile anche offline dopo la prima visita; alla riapertura si aggiorna da solo.
+
 ### Aggiornamento automatico
 
 Un workflow GitHub Actions (`.github/workflows/collect.yml`) esegue `collector/collect.py` ogni giorno alle 06:47 circa (ora italiana) e su richiesta manuale. Il collector rilegge il calendario AIMS, aggiunge le gare nuove marcandole con `addedAt`, ritira quelle disputate da oltre 7 giorni ed evita i doppioni anche quando il titolo differisce per sponsor o edizione. Se il catalogo non cambia, non viene creato nessun commit. Ogni push ripubblica il sito automaticamente.
