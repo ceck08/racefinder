@@ -1,6 +1,6 @@
 # RaceFinder
 
-Anteprima privata del calendario per 10 km su strada e mezze maratone. Il sito statico include ricerca, filtri e preferiti salvati nel browser. Il catalogo contiene 333 schede in 29 Paesi, con date da novembre 2026 a dicembre 2027. Le gare sono ordinate per data e consultabili in gruppi di 24.
+Anteprima privata del calendario per 10 km su strada e mezze maratone. Il sito statico include ricerca, filtri e preferiti salvati nel browser. Il catalogo contiene 362 schede in 29 Paesi, con date da novembre 2026 a dicembre 2027. Le gare sono ordinate per data e consultabili in gruppi di 24. Oltre all'elenco sono disponibili una vista calendario mensile, il filtro delle novità degli ultimi 30 giorni e l'esportazione di ogni gara nel calendario personale in formato iCalendar.
 
 ## Accesso e gestione
 
@@ -47,3 +47,21 @@ Controllo del 23 novembre 2026. Estrazione una tantum dei dati essenziali dai ca
 | SuperHalfs, RunCzech, Great Run, Dublin Marathon, Time to e altri organizzatori | 23 |
 
 Le nuove schede affiancano le 8 del campione iniziale. Dal calendario AIMS sono state prese le mezze esplicitamente classificate come tali e le 10 km esplicitate nel nome, per le date singole riportate e le edizioni europee selezionate. Il calendario federale italiano resta soggetto a variazioni.
+
+## Ampliamento del 23 novembre 2026 (seconda sessione)
+
+Aggiunte **29 schede** dal [calendario AIMS](https://aims-worldrunning.org/calendar.html) (categorie «H» e 10 km nel nome, sole edizioni europee con data confermata), portando il catalogo da 333 a 362 gare. Le gare già presenti da altre fonti (10K Valencia, Malta Marathon, EDP Lisbon Half, Generali Prague e Berlin Half, Maratonina di Udine) non sono state duplicate; le edizioni già disputate sono state escluse. Le manifestazioni con mezza e 10 km (Gerusalemme, Paavo Nurmi, Tallinn) hanno una scheda per distanza. Le schede nuove riportano il campo `addedAt` e compaiono nel filtro «Novità» per 30 giorni.
+
+### Fonti esaminate e non ancora integrate
+
+| Fonte | Esito della verifica |
+|---|---|
+| [Athletics Ireland](https://www.athleticsireland.ie/events/calendar) | API WordPress raggiungibile (1033 fixture), ma data e luogo degli eventi non sono esposti: richiede lettura delle singole pagine. |
+| [runbritain](https://www.runbritain.com/races) | Ricerca gare interamente in JavaScript senza endpoint dati individuato. |
+| [World Athletics](https://worldathletics.org/competition/calendar-results?disciplineId=2) | Dati incorporati nella pagina (100 eventi per vista); il filtro Europa non risponde con i parametri provati. |
+| [Fédération Française d'Athlétisme](https://www.athle.fr/contenu/tout-le-calendrier-2027/5255) | Calendario 2027 in PDF, in gran parte pista; i calendari running restano sui siti dei comitati regionali. |
+| [FIDAL, calendario online](https://www.fidal.it/calendario.php) | La ricerca per tipo «Strada» richiede una sessione interattiva; i calendari PDF regionali restano la via pratica. |
+
+### Mappa geografica
+
+Rinviata: le schede non hanno coordinate. Richiede la geocodifica delle località (da fare una tantum con archivio locale) prima di integrare OpenStreetMap.
