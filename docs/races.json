@@ -58,7 +58,8 @@
   "date": "2027-01-06",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.runnersbergamo.it/"
  },
  {
   "id": "aims-polarnight-marathon-2027-01-09-half",
@@ -77,7 +78,8 @@
   "country": "Spagna",
   "date": "2027-01-10",
   "distance": "10",
-  "source": "https://10kvalencia.com/en/10k-regulations/"
+  "source": "https://10kvalencia.com/en/10k-regulations/",
+  "website": "https://10kvalencia.com/en/10k-regulations/"
  },
  {
   "id": "malta-attard-10k-2027-01-10-10",
@@ -86,7 +88,8 @@
   "country": "Malta",
   "date": "2027-01-10",
   "distance": "10",
-  "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf"
+  "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf",
+  "website": "https://maltamarathon.com/attard-10k/"
  },
  {
   "id": "fidal-stragardalake-run-your-dream-2027-01-10-half",
@@ -96,7 +99,8 @@
   "date": "2027-01-10",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.stragardalake.com/"
  },
  {
   "id": "fidal-losa-experience-21k-half-marathon-2027-01-17-half",
@@ -106,7 +110,8 @@
   "date": "2027-01-17",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.losaexperience.it/"
  },
  {
   "id": "fidal-mangia-s-straragusa-2027-01-17-half",
@@ -125,7 +130,8 @@
   "country": "Francia",
   "date": "2027-01-24",
   "distance": "10",
-  "source": "https://www.timeto.com/en/event/10k-montmartre-ag2r-la-mondiale"
+  "source": "https://www.timeto.com/en/event/10k-montmartre-ag2r-la-mondiale",
+  "website": "https://www.timeto.com/en/event/10k-montmartre-ag2r-la-mondiale"
  },
  {
   "id": "aims-bank-of-cyprus-nicosia-marathon-2027-01-24-half",
@@ -525,7 +531,8 @@
   "date": "2027-02-21",
   "distance": "10",
   "distanceKm": 9.6,
-  "source": "https://www.verdimarathon.it/10k/"
+  "source": "https://www.verdimarathon.it/10k/",
+  "website": "https://www.verdimarathon.it/10k/"
  },
  {
   "id": "fidal-verdi-marathon-21-097-km-2027-02-21-half",
@@ -576,7 +583,8 @@
   "country": "Italia",
   "date": "2027-02-28",
   "distance": "10",
-  "source": "https://ferraramarathon.com/gare/10k/"
+  "source": "https://ferraramarathon.com/gare/10k/",
+  "website": "https://ferraramarathon.com/gare/10k/"
  },
  {
   "id": "fidal-ferrara-half-marathon-2027-02-28-half",
@@ -614,7 +622,8 @@
   "country": "Italia",
   "date": "2027-02-28",
   "distance": "half",
-  "source": "https://romaostia.it/regolamento/"
+  "source": "https://romaostia.it/regolamento/",
+  "website": "https://romaostia.it/regolamento/"
  },
  {
   "id": "piemonte-1a-10km-alladiese-2027-03-07-10",
@@ -643,7 +652,8 @@
   "country": "Portogallo",
   "date": "2027-03-07",
   "distance": "half",
-  "source": "https://maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon/"
+  "source": "https://maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon/",
+  "website": "https://maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon/"
  },
  {
   "id": "fidal-lago-maggiore-half-marathon-mezza-maratona-xix-2027-03-07-half",
@@ -751,7 +761,8 @@
   "country": "Italia",
   "date": "2027-03-14",
   "distance": "10",
-  "source": "https://bresciamarathon.it/regolamento-10k/"
+  "source": "https://bresciamarathon.it/regolamento-10k/",
+  "website": "https://bresciamarathon.it/regolamento-10k/"
  },
  {
   "id": "fidal-brescia-half-marathon-2027-03-14-half",
@@ -862,7 +873,8 @@
   "date": "2027-03-21",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.dogishalfmarathon.it/"
  },
  {
   "id": "malta-la-vallette-marathon-2027-03-21-10",
@@ -951,7 +963,8 @@
   "country": "Cechia",
   "date": "2027-04-03",
   "distance": "half",
-  "source": "https://www.runczech.com/cs/akce/generali-1-2maraton-praha-2027/zavody/generali-1-2maraton-praha"
+  "source": "https://www.runczech.com/cs/akce/generali-1-2maraton-praha-2027/zavody/generali-1-2maraton-praha",
+  "website": "https://www.runczech.com/cs/akce/generali-1-2maraton-praha-2027/zavody/generali-1-2maraton-praha"
  },
  {
   "id": "aims-xm-limassol-marathon-2027-04-03-half",
@@ -981,7 +994,8 @@
   "country": "Germania",
   "date": "2027-04-04",
   "distance": "half",
-  "source": "https://www.generali-berliner-halbmarathon.de/en/preparation/event-faq"
+  "source": "https://www.generali-berliner-halbmarathon.de/en/preparation/event-faq",
+  "website": "https://www.generali-berliner-halbmarathon.de/en/preparation/event-faq"
  },
  {
   "id": "fidal-half-marathon-la-mezza-del-metauro-2027-04-04-half",
@@ -1250,7 +1264,8 @@
   "country": "Serbia",
   "date": "2027-04-17",
   "distance": "half",
-  "source": "https://www.superhalfs.com/en/"
+  "source": "https://www.superhalfs.com/en/",
+  "website": "https://www.superhalfs.com/en/"
  },
  {
   "id": "fidal-kormed-21100-varese-half-marathon-2027-04-18-half",
@@ -1521,7 +1536,8 @@
   "country": "Regno Unito",
   "date": "2027-05-02",
   "distance": "10",
-  "source": "https://www.greatrun.org/events/great-birmingham-run/"
+  "source": "https://www.greatrun.org/events/great-birmingham-run/",
+  "website": "https://www.greatrun.org/events/great-birmingham-run/"
  },
  {
   "id": "event-great-birmingham-run-2027-05-02-half",
@@ -1530,7 +1546,8 @@
   "country": "Regno Unito",
   "date": "2027-05-02",
   "distance": "half",
-  "source": "https://www.greatrun.org/events/great-birmingham-run/"
+  "source": "https://www.greatrun.org/events/great-birmingham-run/",
+  "website": "https://www.greatrun.org/events/great-birmingham-run/"
  },
  {
   "id": "fidal-lucca-half-marathon-2027-05-02-half",
@@ -1681,7 +1698,8 @@
   "country": "Regno Unito",
   "date": "2027-05-09",
   "distance": "10",
-  "source": "https://www.greatrun.org/events/great-bristol-run/"
+  "source": "https://www.greatrun.org/events/great-bristol-run/",
+  "website": "https://www.greatrun.org/events/great-bristol-run/"
  },
  {
   "id": "event-great-bristol-run-2027-05-09-half",
@@ -1690,7 +1708,8 @@
   "country": "Regno Unito",
   "date": "2027-05-09",
   "distance": "half",
-  "source": "https://www.greatrun.org/events/great-bristol-run/"
+  "source": "https://www.greatrun.org/events/great-bristol-run/",
+  "website": "https://www.greatrun.org/events/great-bristol-run/"
  },
  {
   "id": "fidal-half-collemar-athon-2027-05-09-half",
@@ -1748,7 +1767,8 @@
   "country": "Cechia",
   "date": "2027-05-15",
   "distance": "half",
-  "source": "https://www.runczech.com/en/events?selected_year=2027"
+  "source": "https://www.runczech.com/en/events?selected_year=2027",
+  "website": "https://www.runczech.com/en/events?selected_year=2027"
  },
  {
   "id": "aims-moonlight-half-marathon-2027-05-15-half",
@@ -1778,7 +1798,8 @@
   "country": "Cechia",
   "date": "2027-05-15",
   "distance": "10",
-  "source": "https://www.runczech.com/en/events/mattoni-running-festival-karlovy-vary-2027-2/races/10k-race-karlovy-vary"
+  "source": "https://www.runczech.com/en/events/mattoni-running-festival-karlovy-vary-2027-2/races/10k-race-karlovy-vary",
+  "website": "https://www.runczech.com/en/events/mattoni-running-festival-karlovy-vary-2027-2/races/10k-race-karlovy-vary"
  },
  {
   "id": "piemonte-1a-stracastelletto-2027-05-16-10",
@@ -1847,7 +1868,8 @@
   "country": "Lettonia",
   "date": "2027-05-16",
   "distance": "half",
-  "source": "https://www.superhalfs.com/en/"
+  "source": "https://www.superhalfs.com/en/",
+  "website": "https://www.superhalfs.com/en/"
  },
  {
   "id": "fidal-straforli-run-in-the-city-2027-05-16-half",
@@ -1886,7 +1908,8 @@
   "country": "Regno Unito",
   "date": "2027-05-23",
   "distance": "10",
-  "source": "https://www.greatrun.org/events/great-manchester-run/"
+  "source": "https://www.greatrun.org/events/great-manchester-run/",
+  "website": "https://www.greatrun.org/events/great-manchester-run/"
  },
  {
   "id": "event-great-manchester-run-2027-05-23-half",
@@ -1895,7 +1918,8 @@
   "country": "Regno Unito",
   "date": "2027-05-23",
   "distance": "half",
-  "source": "https://www.greatrun.org/events/great-manchester-run/"
+  "source": "https://www.greatrun.org/events/great-manchester-run/",
+  "website": "https://www.greatrun.org/events/great-manchester-run/"
  },
  {
   "id": "fidal-omphalos-half-marathon-2027-05-23-half",
@@ -1934,7 +1958,8 @@
   "country": "Francia",
   "date": "2027-05-23",
   "distance": "10",
-  "source": "https://www.timeto.com/en/event/adidas-10k-paris"
+  "source": "https://www.timeto.com/en/event/adidas-10k-paris",
+  "website": "https://www.timeto.com/en/event/adidas-10k-paris"
  },
  {
   "id": "fidal-maratonina-dei-laghi-2027-05-29-half",
@@ -1953,7 +1978,8 @@
   "country": "Cechia",
   "date": "2027-05-29",
   "distance": "half",
-  "source": "https://www.runczech.com/en/events?selected_year=2027"
+  "source": "https://www.runczech.com/en/events?selected_year=2027",
+  "website": "https://www.runczech.com/en/events?selected_year=2027"
  },
  {
   "id": "fidal-aosta-21k-half-marathon-2027-05-30-half",
@@ -2042,7 +2068,8 @@
   "country": "Cechia",
   "date": "2027-06-12",
   "distance": "half",
-  "source": "https://www.runczech.com/en/events?selected_year=2027"
+  "source": "https://www.runczech.com/en/events?selected_year=2027",
+  "website": "https://www.runczech.com/en/events?selected_year=2027"
  },
  {
   "id": "aims-wroclaw-night-half-marathon-2027-06-12-half",
@@ -2161,7 +2188,8 @@
   "country": "Regno Unito",
   "date": "2027-07-04",
   "distance": "10",
-  "source": "https://www.greatrun.org/events/"
+  "source": "https://www.greatrun.org/events/",
+  "website": "https://www.greatrun.org/events/"
  },
  {
   "id": "event-irish-life-fingal-10k-2027-07-11-10",
@@ -2170,7 +2198,8 @@
   "country": "Irlanda",
   "date": "2027-07-11",
   "distance": "10",
-  "source": "https://irishlifedublinmarathon.ie/2027-event-dates-entry-information/"
+  "source": "https://irishlifedublinmarathon.ie/2027-event-dates-entry-information/",
+  "website": "https://irishlifedublinmarathon.ie/2027-event-dates-entry-information/"
  },
  {
   "id": "event-saucony-london-10k-2027-07-11-10",
@@ -2179,7 +2208,8 @@
   "country": "Regno Unito",
   "date": "2027-07-11",
   "distance": "10",
-  "source": "https://faqs.thelondon10k.com/"
+  "source": "https://faqs.thelondon10k.com/",
+  "website": "https://faqs.thelondon10k.com/"
  },
  {
   "id": "piemonte-47-la-monferrina-3-trofeo-giorgio-prato-2027-07-25-10",
@@ -2279,7 +2309,8 @@
   "country": "Cechia",
   "date": "2027-09-04",
   "distance": "10",
-  "source": "https://www.runczech.com/en/events/birell-prague-grand-prix-10k-2027/races"
+  "source": "https://www.runczech.com/en/events/birell-prague-grand-prix-10k-2027/races",
+  "website": "https://www.runczech.com/en/events/birell-prague-grand-prix-10k-2027/races"
  },
  {
   "id": "aims-42nd-wizz-air-budapest-half-marathon-2027-09-05-half",
@@ -2399,7 +2430,8 @@
   "country": "Cechia",
   "date": "2027-09-18",
   "distance": "half",
-  "source": "https://www.runczech.com/en/events/mattoni-running-festival-usti-nad-labem-2027-2/races"
+  "source": "https://www.runczech.com/en/events/mattoni-running-festival-usti-nad-labem-2027-2/races",
+  "website": "https://www.runczech.com/en/events/mattoni-running-festival-usti-nad-labem-2027-2/races"
  },
  {
   "id": "event-spolchemie-10k-race-2027-09-18-10",
@@ -2408,7 +2440,8 @@
   "country": "Cechia",
   "date": "2027-09-18",
   "distance": "10",
-  "source": "https://www.runczech.com/en/events/mattoni-running-festival-usti-nad-labem-2027-2/races"
+  "source": "https://www.runczech.com/en/events/mattoni-running-festival-usti-nad-labem-2027-2/races",
+  "website": "https://www.runczech.com/en/events/mattoni-running-festival-usti-nad-labem-2027-2/races"
  },
  {
   "id": "piemonte-2a-racconigi-run-ten-2027-09-19-10",
@@ -2477,7 +2510,8 @@
   "country": "Irlanda",
   "date": "2027-09-19",
   "distance": "half",
-  "source": "https://irishlifedublinmarathon.ie/2027-event-dates-entry-information/"
+  "source": "https://irishlifedublinmarathon.ie/2027-event-dates-entry-information/",
+  "website": "https://irishlifedublinmarathon.ie/2027-event-dates-entry-information/"
  },
  {
   "id": "fidal-m6c-21km-2027-09-19-half",
@@ -2627,7 +2661,8 @@
   "country": "Regno Unito",
   "date": "2027-10-03",
   "distance": "half",
-  "source": "https://www.superhalfs.com/en/"
+  "source": "https://www.superhalfs.com/en/",
+  "website": "https://www.superhalfs.com/en/"
  },
  {
   "id": "fidal-half-marathon-empoli-2027-10-03-half",
