@@ -6,7 +6,8 @@
   "date": "2026-11-27",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10029.html",
-  "city": "Eilat"
+  "city": "Eilat",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "aims-discoveries-half-marathon-2026-11-29-half",
@@ -400,7 +401,8 @@
   "date": "2027-02-14",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10027.html",
-  "city": "Verona"
+  "city": "Verona",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "aims-split-marathon-2027-02-14-half",
@@ -467,7 +469,8 @@
   "date": "2027-02-21",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10052.html",
-  "city": "Terni"
+  "city": "Terni",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-mezza-maratona-eufemio-da-messina-2027-02-21-half",
@@ -496,7 +499,8 @@
   "date": "2027-02-21",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10060.html",
-  "city": "Napoli"
+  "city": "Napoli",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "salso-fidenza-2027",
@@ -525,7 +529,8 @@
   "date": "2027-02-26",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/683.html",
-  "city": "Tel Aviv"
+  "city": "Tel Aviv",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "aims-tui-cyprus-marathon-2027-02-27-half",
@@ -534,7 +539,8 @@
   "date": "2027-02-27",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10164.html",
-  "city": "Limassol"
+  "city": "Limassol",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-citta-di-vercelli-half-marathon-2027-02-28-half",
@@ -796,16 +802,18 @@
   "date": "2027-03-19",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/674.html",
-  "city": "Gerusalemme"
+  "city": "Gerusalemme",
+  "addedAt": "2026-11-23"
  },
  {
-  "id": "aims-jerusalem-marathon-10-10k-2027-03-19-10",
+  "id": "aims-jerusalem-marathon-half-10k-2027-03-19-10",
   "title": "Jerusalem Marathon, Half & 10k",
   "country": "Israele",
   "date": "2027-03-19",
   "distance": "10",
   "source": "https://www.aims-worldrunning.org/races/674.html",
-  "city": "Gerusalemme"
+  "city": "Gerusalemme",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "malta-lisa-maria-dingli-10k-2027-03-19-10",
@@ -861,7 +869,8 @@
   "date": "2027-03-21",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10369.html",
-  "city": "La Valletta"
+  "city": "La Valletta",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-mezza-maratona-di-agrigento-2027-03-21-half",
@@ -909,7 +918,8 @@
   "date": "2027-04-02",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/1003.html",
-  "city": "Adalia"
+  "city": "Adalia",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "prague-half-2027",
@@ -927,7 +937,8 @@
   "date": "2027-04-03",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10374.html",
-  "city": "Limassol"
+  "city": "Limassol",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "piemonte-1a-corsa-delle-cento-torri-2027-04-04-10",
@@ -1043,7 +1054,8 @@
   "date": "2027-04-10",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10013.html",
-  "city": "Budapest"
+  "city": "Budapest",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "aims-pardubice-wine-half-marathon-2027-04-10-half",
@@ -1265,7 +1277,8 @@
   "date": "2027-04-18",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/712.html",
-  "city": "Padova"
+  "city": "Padova",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-prato-half-marathon-maratonina-citta-di-prato-2027-04-18-half",
@@ -1294,7 +1307,8 @@
   "date": "2027-04-18",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/20170.html",
-  "city": "Rimini"
+  "city": "Rimini",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-sigel-marsala-halfmarathon-citta-garibaldina-2027-04-18-half",
@@ -1359,7 +1373,8 @@
   "date": "2027-04-25",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10395.html",
-  "city": "Gozo"
+  "city": "Gozo",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "malta-il-girja-ta-gawdex-2027-04-25-10",
@@ -1414,7 +1429,8 @@
   "date": "2027-04-25",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10054.html",
-  "city": "Istanbul"
+  "city": "Istanbul",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "aims-zurich-rock-n-roll-running-series-madrid-2027-04-25-half",
@@ -1539,7 +1555,8 @@
   "date": "2027-05-07",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/779.html",
-  "city": "Helsinki"
+  "city": "Helsinki",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-comacchio-half-marathon-2027-05-08-half",
@@ -1558,7 +1575,8 @@
   "date": "2027-05-08",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10028.html",
-  "city": "Leida"
+  "city": "Leida",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "piemonte-22a-tuttadritta-2027-05-09-10",
@@ -1691,7 +1709,8 @@
   "date": "2027-05-15",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10049.html",
-  "city": "Cavallino-Treporti"
+  "city": "Cavallino-Treporti",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "aims-three-hearts-marathon-2027-05-15-half",
@@ -2062,7 +2081,8 @@
   "date": "2027-07-02",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/767.html",
-  "city": "Zermatt"
+  "city": "Zermatt",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "piemonte-5-trofeo-le-7-cascine-2027-07-04-10",
@@ -2127,16 +2147,18 @@
   "date": "2027-08-20",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/763.html",
-  "city": "Turku"
+  "city": "Turku",
+  "addedAt": "2026-11-23"
  },
  {
-  "id": "aims-paavo-nurmi-marathon-10-and-10k-2027-08-20-10",
+  "id": "aims-paavo-nurmi-marathon-half-and-10k-2027-08-20-10",
   "title": "Paavo Nurmi Marathon, Half and 10k",
   "country": "Finlandia",
   "date": "2027-08-20",
   "distance": "10",
   "source": "https://www.aims-worldrunning.org/races/763.html",
-  "city": "Turku"
+  "city": "Turku",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "aims-islandsbanki-reykjavik-marathon-2027-08-21-half",
@@ -2239,16 +2261,18 @@
   "date": "2027-09-10",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/805.html",
-  "city": "Tallinn"
+  "city": "Tallinn",
+  "addedAt": "2026-11-23"
  },
  {
-  "id": "aims-swedbank-tallinn-marathon-relay-marathon-10-10k-5k-2027-09-10-10",
+  "id": "aims-swedbank-tallinn-marathon-relay-marathon-half-10k-5k-2027-09-10-10",
   "title": "Swedbank Tallinn Marathon, Relay Marathon, Half, 10K & 5K",
   "country": "Estonia",
   "date": "2027-09-10",
   "distance": "10",
   "source": "https://www.aims-worldrunning.org/races/805.html",
-  "city": "Tallinn"
+  "city": "Tallinn",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-dolomitica-run-half-marathon-val-rendena-2027-09-12-half",
@@ -2431,7 +2455,8 @@
   "date": "2027-09-25",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10327.html",
-  "city": "Lugano"
+  "city": "Lugano",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "aims-27th-international-wachaumarathon-2027-09-26-half",
@@ -2906,7 +2931,8 @@
   "date": "2027-10-24",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/20171.html",
-  "city": "Napoli"
+  "city": "Napoli",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "aims-valencia-half-marathon-trinidad-alfonso-wizz-air-2027-10-24-half",
@@ -3190,7 +3216,8 @@
   "date": "2027-11-14",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/1121.html",
-  "city": "Ravenna"
+  "city": "Ravenna",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-tui-palermo-half-marathon-2027-11-14-half",
@@ -3328,7 +3355,8 @@
   "date": "2027-11-28",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10401.html",
-  "city": "Milano"
+  "city": "Milano",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-cagliarirespira-27-19a-mezza-maratona-int-le-citta-di-cagliari-2027-12-05-half",
@@ -3376,7 +3404,8 @@
   "date": "2027-12-10",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10029.html",
-  "city": "Eilat"
+  "city": "Eilat",
+  "addedAt": "2026-11-23"
  },
  {
   "id": "fidal-13a-fatica-di-ercole-ripulire-le-stalle-di-augia-2027-12-12-half",
