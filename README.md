@@ -2,7 +2,15 @@
 
 Anteprima privata del calendario per 10 km su strada e mezze maratone. Il sito statico include ricerca, filtri e preferiti salvati nel browser. Il catalogo contiene 362 schede in 29 Paesi, con date da novembre 2026 a dicembre 2027. Le gare sono ordinate per data e consultabili in gruppi di 24. Oltre all'elenco sono disponibili una vista calendario mensile, il filtro delle novità degli ultimi 30 giorni e l'esportazione di ogni gara nel calendario personale in formato iCalendar.
 
-## Accesso e gestione
+## Sito pubblico
+
+RaceFinder è pubblicato su GitHub Pages: [ceck08.github.io/racefinder](https://ceck08.github.io/racefinder/). Il sito è statico e non richiede registrazione. Il codice e il catalogo sono nel repository [ceck08/racefinder](https://github.com/ceck08/racefinder).
+
+### Aggiornamento automatico
+
+Un workflow GitHub Actions (`.github/workflows/collect.yml`) esegue `collector/collect.py` ogni giorno alle 06:47 circa (ora italiana) e su richiesta manuale. Il collector rilegge il calendario AIMS, aggiunge le gare nuove marcandole con `addedAt`, ritira quelle disputate da oltre 7 giorni ed evita i doppioni anche quando il titolo differisce per sponsor o edizione. Se il catalogo non cambia, non viene creato nessun commit. Ogni push ripubblica il sito automaticamente.
+
+## Accesso e gestione (anteprima locale)
 
 Su Ubuntu il sito risponde su [127.0.0.1:8780](http://127.0.0.1:8780/). Da un altro computer con accesso SSH a Ubuntu, aprire un tunnel e lasciare il terminale aperto durante la consultazione.
 
