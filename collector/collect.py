@@ -12,11 +12,13 @@ Regole:
 - le gare disputate da piu' di 7 giorni escono dal catalogo;
 - manifestazioni con mezza e 10 km: una scheda per distanza.
 """
-import json, re, sys, unicodedata, urllib.request
+import json, re, sys, time, unicodedata, urllib.request
 from datetime import date, timedelta
 from pathlib import Path
 
 from bs4 import BeautifulSoup
+
+from websites import extract_website
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / "docs" / "races.json"
@@ -140,6 +142,14 @@ def main():
         if city:
             r["city"] = city
             known_cities.add(city)
+        # sito ufficiale dalla pagina della gara (per l'iscrizione diretta)
+        try:
+            site = extract_website(fetch(r["source"]))
+            if site:
+                r["website"] = site
+        except Exception as e:
+            print(f"  sito ufficiale non trovato per {r['title']}: {e}")
+        time.sleep(0.3)
         r["addedAt"] = TODAY
         races.append(r)
         ids.add(r["id"])

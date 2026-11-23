@@ -1,4 +1,4 @@
-const CACHE = 'racefinder-v1';
+const CACHE = 'racefinder-v2';
 const ASSETS = [
   './',
   'index.html',
@@ -28,8 +28,8 @@ self.addEventListener('fetch', (event) => {
   const { request } = event;
   if (request.method !== 'GET' || !request.url.startsWith(self.location.origin)) return;
 
-  // Il catalogo: prima la rete (dati freschi), poi la copia in cache.
-  if (request.url.endsWith('races.json')) {
+  // Pagine e catalogo: prima la rete (contenuti freschi), poi la copia in cache.
+  if (request.mode === 'navigate' || request.url.endsWith('races.json')) {
     event.respondWith(
       fetch(request)
         .then((response) => {

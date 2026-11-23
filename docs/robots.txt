@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ceck08.github.io/racefinder/sitemap.xml

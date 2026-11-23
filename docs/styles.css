@@ -178,3 +178,8 @@ footer { padding-bottom:calc(24px + env(safe-area-inset-bottom)) }
   button.cal-day { min-height:48px }
   .ics { padding:8px 12px }
 }
+
+/* Link sito ufficiale e fonte */
+.race-bottom .links { display:flex; align-items:baseline; gap:12px; min-width:0 }
+.race-bottom .site { font-weight:800 }
+.race-bottom .src { color:var(--muted); font-size:.82rem; font-weight:600 }

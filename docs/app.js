@@ -97,7 +97,16 @@ function renderRace(race) {
   card.querySelector('.distance').textContent = `${kmFormat.format(race.distanceKm ?? (race.distance === '10' ? 10 : 21.1))} km`;
   card.querySelector('.location').textContent = [race.city, race.country].filter(Boolean).join(' · ');
   card.querySelector('h3').textContent = race.title;
-  card.querySelector('a').href = race.source;
+  const site = card.querySelector('.site');
+  const src = card.querySelector('.src');
+  const catalogSource = /aims-worldrunning\.org|\.pdf($|\?)/i.test(race.source);
+  site.href = race.website ?? race.source;
+  site.firstChild.textContent = race.website || !catalogSource ? 'Sito ufficiale' : 'Fonte ufficiale';
+  if (race.website && race.website !== race.source) {
+    src.href = race.source;
+  } else {
+    src.hidden = true;
+  }
   if (race.addedAt && race.addedAt >= newsSince) {
     const badge = document.createElement('span');
     badge.className = 'new-badge';
