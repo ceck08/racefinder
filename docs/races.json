@@ -48,7 +48,8 @@
   "date": "2027-01-06",
   "distance": "10",
   "source": "https://www.fidal.it/upload/Piemonte/Calendari%20Regionali/2026%2010%2023%20Torino%20LENZUOLONE%202027%20ordine%20data.pdf",
-  "distanceKm": 9.0
+  "distanceKm": 9.0,
+  "website": "https://www.dragonero.org"
  },
  {
   "id": "fidal-mezza-maratona-sul-brembo-2027-01-06-half",
@@ -121,7 +122,8 @@
   "date": "2027-01-17",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.maratonadiragusa.com"
  },
  {
   "id": "event-10k-montmartre-2027-01-24-10",
@@ -151,7 +153,8 @@
   "date": "2027-01-24",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://montecatinimarathonasd.com"
  },
  {
   "id": "aims-mitja-marato-internacional-vila-de-santa-pola-2027-01-24-half",
@@ -171,7 +174,8 @@
   "date": "2027-01-24",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.circuitorunning.it"
  },
  {
   "id": "fidal-valli-e-pinete-ravenna-21k-2027-01-24-half",
@@ -181,7 +185,8 @@
   "date": "2027-01-24",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://maratonadiravenna.com/supplementari/valli-e-pinete/"
  },
  {
   "id": "fidal-irun21-la-mezza-di-vicenza-2027-01-24-half",
@@ -191,7 +196,8 @@
   "date": "2027-01-24",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.irunvicenza.com/irun21-la-mezza-maratona-di-vicenza/"
  },
  {
   "id": "malta-10k-national-championships-ta-qali-2027-01-29-10",
@@ -200,7 +206,8 @@
   "country": "Malta",
   "date": "2027-01-29",
   "distance": "10",
-  "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf"
+  "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf",
+  "website": "https://athleticsmalta.com"
  },
  {
   "id": "fidal-bergamo-half-marathon-2027-01-31-half",
@@ -210,7 +217,8 @@
   "date": "2027-01-31",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://followyourpassion.it"
  },
  {
   "id": "fidal-faenza-half-marathon-2027-01-31-half",
@@ -220,7 +228,8 @@
   "date": "2027-01-31",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.faenzahalfmarathon.com"
  },
  {
   "id": "aims-funchal-marathon-2027-01-31-half",
@@ -250,7 +259,8 @@
   "date": "2027-01-31",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.lamezzadigarda.org"
  },
  {
   "id": "fidal-maratonina-dello-jonio-2027-01-31-half",
@@ -260,7 +270,8 @@
   "date": "2027-01-31",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.atleticagallipoli.com"
  },
  {
   "id": "fidal-mezza-maratona-int-le-delle-due-perle-2027-01-31-half",
@@ -270,7 +281,8 @@
   "date": "2027-01-31",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.mezzadelledueperle.it"
  },
  {
   "id": "fidal-mezzaciocia-ra-2027-01-31-half",
@@ -280,7 +292,8 @@
   "date": "2027-01-31",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.mezzaciociara.it"
  },
  {
   "id": "fidal-nuceria-paganorum-half-marathon-xxiv-memorial-franco-de-maio-2027-01-31-half",
@@ -290,7 +303,8 @@
   "date": "2027-01-31",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.nphm.it"
  },
  {
   "id": "piemonte-1a-speedrun-2027-02-07-10",
@@ -309,7 +323,8 @@
   "country": "Malta",
   "date": "2027-02-07",
   "distance": "10",
-  "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf"
+  "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf",
+  "website": "https://10kseriesmalta.com"
  },
  {
   "id": "fidal-maratonina-di-centobuchi-2027-02-07-half",
@@ -319,7 +334,8 @@
   "date": "2027-02-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.podisticacentobuchi.it"
  },
  {
   "id": "fidal-mezza-maratona-del-castello-2027-02-07-half",
@@ -329,7 +345,8 @@
   "date": "2027-02-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.atletica99vittuone.it/lamezzadelcastello"
  },
  {
   "id": "aims-montepio-meia-maratona-de-cascais-2027-02-07-half",
@@ -349,7 +366,8 @@
   "date": "2027-02-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://rovigoinlove.it"
  },
  {
   "id": "piemonte-7a-arona-10k-2027-02-14-10",
@@ -359,7 +377,8 @@
   "date": "2027-02-14",
   "distance": "10",
   "source": "https://www.fidal.it/upload/Piemonte/Calendari%20Regionali/2026%2010%2023%20Torino%20LENZUOLONE%202027%20ordine%20data.pdf",
-  "distanceKm": 10.0
+  "distanceKm": 10.0,
+  "website": "https://www.podisticaarona.it"
  },
  {
   "id": "fidal-corime-barletta-half-marathon-2027-02-14-half",
@@ -369,7 +388,8 @@
   "date": "2027-02-14",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://barlettasportiva.blogspot.com"
  },
  {
   "id": "aims-hyundai-mitja-marato-de-barcelona-by-brooks-2027-02-14-half",
@@ -399,7 +419,8 @@
   "date": "2027-02-14",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.mezzamaratonadioristano.com"
  },
  {
   "id": "fidal-romeo-giulietta-half-marathon-2027-02-14-half",
@@ -409,7 +430,8 @@
   "date": "2027-02-14",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.romeoegiuliettarunhalfmarathon.it"
  },
  {
   "id": "aims-romeo-giulietta-run-half-marathon-2027-02-14-half",
@@ -440,7 +462,8 @@
   "date": "2027-02-14",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.whitemarblemarathon.com"
  },
  {
   "id": "fidal-agnolotto-half-marathon-2027-02-21-half",
