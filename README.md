@@ -14,6 +14,10 @@ RaceFinder è una web app installabile: da iPhone «Aggiungi a Home» in Safari,
 
 Un workflow GitHub Actions (`.github/workflows/collect.yml`) esegue `collector/collect.py` ogni giorno alle 06:47 circa (ora italiana) e su richiesta manuale. Il collector rilegge il calendario AIMS, aggiunge le gare nuove marcandole con `addedAt`, ritira quelle disputate da oltre 7 giorni ed evita i doppioni anche quando il titolo differisce per sponsor o edizione. Se il catalogo non cambia, non viene creato nessun commit. Ogni push ripubblica il sito automaticamente.
 
+### Siti ufficiali delle gare
+
+Ogni scheda mostra il link «Sito ufficiale» per iscriversi sul sito dell'organizzatore. Per le gare AIMS il sito viene estratto automaticamente dal collector; per le altre fonti un'attività pianificata giornaliera su Kimi cerca il sito ufficiale sul web (massimo 25 gare al giorno, con verifica delle fonti ed esclusione di aggregatori e portali terzi), aggiorna `docs/races.json` e pubblica la modifica con un commit dedicato. Le gare senza sito individuabile restano senza link anziché rimandare a portali generici.
+
 ## Accesso e gestione (anteprima locale)
 
 Su Ubuntu il sito risponde su [127.0.0.1:8780](http://127.0.0.1:8780/). Da un altro computer con accesso SSH a Ubuntu, aprire un tunnel e lasciare il terminale aperto durante la consultazione.
