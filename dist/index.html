@@ -15,6 +15,7 @@
       <a class="brand" href="./"><span class="mark" aria-hidden="true"></span>Race<span>Finder</span></a>
       <nav aria-label="Navigazione">
         <a href="#gare">Esplora</a>
+        <button id="news" type="button" aria-pressed="false">Novità <span id="news-count">0</span></button>
         <button id="saved" type="button" aria-pressed="false">Preferiti <span id="saved-count">0</span></button>
       </nav>
     </div>
@@ -39,7 +40,26 @@
         <label>Distanza<select id="distance"><option value="">Tutte le distanze</option><option value="10">10 km (9–11 km)</option><option value="half">Mezza maratona</option></select></label>
         <label>Mese<select id="month"><option value="">Tutti i mesi</option></select></label>
       </form>
-      <div class="results-line"><p id="count" role="status"></p><button id="reset" class="clear" type="button" hidden>Azzera filtri</button></div>
+      <div class="results-line">
+        <p id="count" role="status"></p>
+        <div class="view-actions">
+          <button id="day-chip" class="chip" type="button" hidden><span></span><span aria-hidden="true">✕</span><span class="sr-only">Rimuovi filtro giorno</span></button>
+          <div class="view-toggle" role="group" aria-label="Vista risultati">
+            <button id="view-list" type="button" aria-pressed="true">Elenco</button>
+            <button id="view-cal" type="button" aria-pressed="false">Calendario</button>
+          </div>
+          <button id="reset" class="clear" type="button" hidden>Azzera filtri</button>
+        </div>
+      </div>
+      <div id="calendar-view" hidden>
+        <div class="cal-head">
+          <button id="cal-prev" type="button" aria-label="Mese precedente">‹</button>
+          <h3 id="cal-title"></h3>
+          <button id="cal-next" type="button" aria-label="Mese successivo">›</button>
+        </div>
+        <div id="cal-grid" class="cal-grid"></div>
+        <p class="cal-hint">Seleziona un giorno per vedere le gare nell’elenco.</p>
+      </div>
       <div id="races" class="grid"></div>
       <div class="more"><button id="more" type="button" hidden>Mostra altre gare</button></div>
       <noscript>Attiva JavaScript per cercare e filtrare le gare.</noscript>
@@ -55,7 +75,7 @@
       </div>
       <p class="location"></p>
       <h3></h3>
-      <div class="race-bottom"><a target="_blank" rel="noopener noreferrer">Fonte ufficiale<span class="sr-only"> (nuova scheda)</span></a></div>
+      <div class="race-bottom"><a target="_blank" rel="noopener noreferrer">Fonte ufficiale<span class="sr-only"> (nuova scheda)</span></a><button class="ics" type="button">+ Calendario</button></div>
     </article>
   </template>
 </body>
