@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="Scopri gare su strada da 10 km e mezze maratone in Italia e in Europa.">
+  <title>RaceFinder · Gare su strada in Europa</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" type="module"></script>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="./"><span class="mark" aria-hidden="true"></span>Race<span>Finder</span></a>
+      <nav aria-label="Navigazione">
+        <a href="#gare">Esplora</a>
+        <button id="saved" type="button" aria-pressed="false">Preferiti <span id="saved-count">0</span></button>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="wrap hero-inner">
+        <p class="eyebrow">Calendario europeo di corsa su strada</p>
+        <h1>La tua prossima<br>gara <em>ti aspetta.</em></h1>
+        <p class="intro">Trova una 10 km o una mezza maratona,<br class="desktop"> in Italia e in tutta Europa.</p>
+        <a class="primary" href="#gare">Esplora il calendario</a>
+      </div>
+    </section>
+    <section class="wrap catalogue" id="gare" aria-labelledby="section-title">
+      <div class="section-head">
+        <div><p class="eyebrow">Trova la tua partenza</p><h2 id="section-title">Prossime gare</h2></div>
+        <p class="edition">Anteprima privata<br>Calendari federali e organizzatori</p>
+      </div>
+      <form class="filters" role="search" aria-label="Filtra gare">
+        <label>Cerca<input id="query" type="search" placeholder="Nome della gara o città"></label>
+        <label>Paese<select id="country"><option value="">Tutti i Paesi</option></select></label>
+        <label>Distanza<select id="distance"><option value="">Tutte le distanze</option><option value="10">10 km (9–11 km)</option><option value="half">Mezza maratona</option></select></label>
+        <label>Mese<select id="month"><option value="">Tutti i mesi</option></select></label>
+      </form>
+      <div class="results-line"><p id="count" role="status"></p><button id="reset" class="clear" type="button" hidden>Azzera filtri</button></div>
+      <div id="races" class="grid"></div>
+      <div class="more"><button id="more" type="button" hidden>Mostra altre gare</button></div>
+      <noscript>Attiva JavaScript per cercare e filtrare le gare.</noscript>
+    </section>
+  </main>
+  <footer><div class="wrap"><strong>RaceFinder</strong><span>Consulta sempre l’organizzatore prima di iscriverti.</span></div></footer>
+  <template id="race-template">
+    <article class="race">
+      <div class="race-top">
+        <time class="date"><strong></strong><span></span></time>
+        <span class="distance"></span>
+        <button class="favorite" type="button" aria-pressed="false"><span aria-hidden="true">♡</span></button>
+      </div>
+      <p class="location"></p>
+      <h3></h3>
+      <div class="race-bottom"><a target="_blank" rel="noopener noreferrer">Fonte ufficiale<span class="sr-only"> (nuova scheda)</span></a></div>
+    </article>
+  </template>
+</body>
+</html>
