@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Configurazioni locali e segreti
+.env
+.env.*
+!.env.example
+
+# Build e file temporanei
+dist/
+build/
+tmp/
+temp/
+*.log
+
+# Sistema operativo ed editor
+.DS_Store
+.idea/
+.vscode/
