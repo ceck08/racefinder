@@ -8,7 +8,8 @@
   "source": "https://www.aims-worldrunning.org/races/10029.html",
   "city": "Eilat",
   "addedAt": "2026-11-23",
-  "website": "https://www.marathonisrael.co.il/en/event/eilat-desert-marathon/"
+  "website": "https://www.marathonisrael.co.il/en/event/eilat-desert-marathon/",
+  "facebook": "https://www.facebook.com/desertrun.co.il"
  },
  {
   "id": "aims-discoveries-half-marathon-2026-11-29-half",
@@ -18,7 +19,8 @@
   "date": "2026-11-29",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/925.html",
-  "website": "https://www.xistarca.pt"
+  "website": "https://www.xistarca.pt",
+  "facebook": "https://www.facebook.com/Xistarca1986"
  },
  {
   "id": "aims-serge-vigot-la-rochelle-international-marathon-2026-11-29-half",
@@ -28,7 +30,8 @@
   "date": "2026-11-29",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/901.html",
-  "website": "https://www.marathondelarochelle.com"
+  "website": "https://www.marathondelarochelle.com",
+  "facebook": "https://www.facebook.com/marathonLR"
  },
  {
   "id": "aims-neujahrsmarathon-zurich-2027-01-01-half",
@@ -38,7 +41,8 @@
   "date": "2027-01-01",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/5.html",
-  "website": "https://www.neujahrsmarathon.ch"
+  "website": "https://www.neujahrsmarathon.ch",
+  "facebook": "https://www.facebook.com/neujahrsmarathon"
  },
  {
   "id": "piemonte-26a-dronero-sant-anna-di-roccabruna-2027-01-06-10",
@@ -60,7 +64,8 @@
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
   "distanceKm": 21.0975,
-  "website": "https://www.runnersbergamo.it/"
+  "website": "https://www.runnersbergamo.it/",
+  "facebook": "https://www.facebook.com/AsdRunnersBergamo"
  },
  {
   "id": "aims-polarnight-marathon-2027-01-09-half",
@@ -70,7 +75,8 @@
   "date": "2027-01-09",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10228.html",
-  "website": "https://www.msm.no"
+  "website": "https://www.msm.no",
+  "facebook": "https://www.facebook.com/MidnightSunMarathonTromso"
  },
  {
   "id": "valencia-10-2027",
@@ -80,7 +86,8 @@
   "date": "2027-01-10",
   "distance": "10",
   "source": "https://10kvalencia.com/en/10k-regulations/",
-  "website": "https://10kvalencia.com/en/10k-regulations/"
+  "website": "https://10kvalencia.com/en/10k-regulations/",
+  "facebook": "https://www.facebook.com/10KValencia"
  },
  {
   "id": "malta-attard-10k-2027-01-10-10",
@@ -90,7 +97,8 @@
   "date": "2027-01-10",
   "distance": "10",
   "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf",
-  "website": "https://maltamarathon.com/attard-10k/"
+  "website": "https://maltamarathon.com/attard-10k/",
+  "facebook": "https://www.facebook.com/themaltamarathon"
  },
  {
   "id": "fidal-stragardalake-run-your-dream-2027-01-10-half",
@@ -101,7 +109,8 @@
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
   "distanceKm": 21.0975,
-  "website": "https://www.stragardalake.com/"
+  "website": "https://www.stragardalake.com/",
+  "facebook": "https://www.facebook.com/people/Stragardalake-Run-your-dream/61578406145952"
  },
  {
   "id": "fidal-losa-experience-21k-half-marathon-2027-01-17-half",
@@ -123,7 +132,8 @@
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
   "distanceKm": 21.0975,
-  "website": "https://www.maratonadiragusa.com"
+  "website": "https://www.maratonadiragusa.com",
+  "facebook": "https://www.facebook.com/maratonadiragusa"
  },
  {
   "id": "event-10k-montmartre-2027-01-24-10",
@@ -133,7 +143,8 @@
   "date": "2027-01-24",
   "distance": "10",
   "source": "https://www.timeto.com/en/event/10k-montmartre-ag2r-la-mondiale",
-  "website": "https://www.timeto.com/en/event/10k-montmartre-ag2r-la-mondiale"
+  "website": "https://www.timeto.com/en/event/10k-montmartre-ag2r-la-mondiale",
+  "facebook": "https://www.facebook.com/10KMontmartre"
  },
  {
   "id": "aims-bank-of-cyprus-nicosia-marathon-2027-01-24-half",
@@ -143,7 +154,8 @@
   "date": "2027-01-24",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/918.html",
-  "website": "https://www.nicosiamarathon.com"
+  "website": "https://www.nicosiamarathon.com",
+  "facebook": "https://www.facebook.com/NicosiaMarathonCy"
  },
  {
   "id": "fidal-half-marathon-citta-di-montecatini-terme-2027-01-24-half",
@@ -164,7 +176,8 @@
   "date": "2027-01-24",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/639.html",
-  "website": "https://www.mitjasantapola.com"
+  "website": "https://www.mitjasantapola.com",
+  "facebook": "https://www.facebook.com/MitjaMaratoSantaPola"
  },
  {
   "id": "fidal-novara-half-marathon-2027-01-24-half",
@@ -186,7 +199,8 @@
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
   "distanceKm": 21.0975,
-  "website": "https://maratonadiravenna.com/supplementari/valli-e-pinete/"
+  "website": "https://maratonadiravenna.com/supplementari/valli-e-pinete/",
+  "facebook": "https://www.facebook.com/maratonaravenna"
  },
  {
   "id": "fidal-irun21-la-mezza-di-vicenza-2027-01-24-half",
@@ -197,7 +211,8 @@
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
   "distanceKm": 21.0975,
-  "website": "https://www.irunvicenza.com/irun21-la-mezza-maratona-di-vicenza/"
+  "website": "https://www.irunvicenza.com/irun21-la-mezza-maratona-di-vicenza/",
+  "facebook": "https://www.facebook.com/runningvicenza"
  },
  {
   "id": "malta-10k-national-championships-ta-qali-2027-01-29-10",
@@ -207,7 +222,8 @@
   "date": "2027-01-29",
   "distance": "10",
   "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf",
-  "website": "https://athleticsmalta.com"
+  "website": "https://athleticsmalta.com",
+  "facebook": "https://www.facebook.com/AthleticsMalta"
  },
  {
   "id": "fidal-bergamo-half-marathon-2027-01-31-half",
@@ -218,7 +234,8 @@
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
   "distanceKm": 21.0975,
-  "website": "https://followyourpassion.it"
+  "website": "https://followyourpassion.it",
+  "facebook": "https://www.facebook.com/followyourpassionita"
  },
  {
   "id": "fidal-faenza-half-marathon-2027-01-31-half",
@@ -229,7 +246,8 @@
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
   "distanceKm": 21.0975,
-  "website": "https://www.faenzahalfmarathon.com"
+  "website": "https://www.faenzahalfmarathon.com",
+  "facebook": "https://www.facebook.com/profile.php?id=61566785147957"
  },
  {
   "id": "aims-funchal-marathon-2027-01-31-half",
@@ -249,7 +267,8 @@
   "date": "2027-01-31",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10493.html",
-  "website": "https://www.thermen-marathon.de"
+  "website": "https://www.thermen-marathon.de",
+  "facebook": "https://www.facebook.com/thermenmarathon"
  },
  {
   "id": "fidal-la-mezza-di-garda-2027-01-31-half",
