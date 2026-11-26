@@ -488,7 +488,8 @@
   "date": "2027-02-14",
   "distance": "half",
   "source": "https://www.aims-worldrunning.org/races/10156.html",
-  "website": "https://www.splitmarathon.com"
+  "website": "https://www.splitmarathon.com",
+  "facebook": "https://www.facebook.com/splitmarathon"
  },
  {
   "id": "fidal-world-running-academy-half-marathon-2027-02-14-half",
@@ -520,7 +521,9 @@
   "date": "2027-02-21",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.napolirunning.com",
+  "facebook": "https://www.facebook.com/napolirunning"
  },
  {
   "id": "malta-caritas-10k-2027-02-21-10",
@@ -539,7 +542,9 @@
   "date": "2027-02-21",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://lamezzadelmarchesato.it",
+  "facebook": "https://www.facebook.com/LaMezzadelMarchesato"
  },
  {
   "id": "aims-maratona-di-san-valentino-2027-02-21-half",
@@ -550,7 +555,8 @@
   "source": "https://www.aims-worldrunning.org/races/10052.html",
   "city": "Terni",
   "addedAt": "2026-11-23",
-  "website": "https://www.maratonadisanvalentino.it"
+  "website": "https://www.maratonadisanvalentino.it",
+  "facebook": "https://www.facebook.com/maratona.disanvalentino"
  },
  {
   "id": "fidal-mezza-maratona-eufemio-da-messina-2027-02-21-half",
@@ -560,7 +566,9 @@
   "date": "2027-02-21",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.messinamarathon.com",
+  "facebook": "https://www.facebook.com/messina.marathon"
  },
  {
   "id": "fidal-mezza-maratona-di-san-valentino-2027-02-21-half",
@@ -570,7 +578,9 @@
   "date": "2027-02-21",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.maratonadisanvalentino.it",
+  "facebook": "https://www.facebook.com/maratona.disanvalentino"
  },
  {
   "id": "aims-napoli-city-half-marathon-2027-02-21-half",
@@ -581,7 +591,8 @@
   "source": "https://www.aims-worldrunning.org/races/10060.html",
   "city": "Napoli",
   "addedAt": "2026-11-23",
-  "website": "https://www.napolirunning.com"
+  "website": "https://www.napolirunning.com",
+  "facebook": "https://www.facebook.com/napolirunning"
  },
  {
   "id": "salso-fidenza-2027",
@@ -592,7 +603,8 @@
   "distance": "10",
   "distanceKm": 9.6,
   "source": "https://www.verdimarathon.it/10k/",
-  "website": "https://www.verdimarathon.it/10k/"
+  "website": "https://www.verdimarathon.it/10k/",
+  "facebook": "https://www.facebook.com/verdimarathon"
  },
  {
   "id": "fidal-verdi-marathon-21-097-km-2027-02-21-half",
@@ -602,7 +614,9 @@
   "date": "2027-02-21",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.verdimarathon.it",
+  "facebook": "https://www.facebook.com/verdimarathon"
  },
  {
   "id": "aims-tel-aviv-bank-leumi-marathon-2027-02-26-half",
@@ -634,7 +648,8 @@
   "date": "2027-02-28",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.circuitorunning.it"
  },
  {
   "id": "ferrara-10-2027",
@@ -644,7 +659,8 @@
   "date": "2027-02-28",
   "distance": "10",
   "source": "https://ferraramarathon.com/gare/10k/",
-  "website": "https://ferraramarathon.com/gare/10k/"
+  "website": "https://ferraramarathon.com/gare/10k/",
+  "facebook": "https://www.facebook.com/ferraramarathon"
  },
  {
   "id": "fidal-ferrara-half-marathon-2027-02-28-half",
@@ -654,7 +670,9 @@
   "date": "2027-02-28",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://ferraramarathon.com",
+  "facebook": "https://www.facebook.com/ferraramarathon"
  },
  {
   "id": "malta-malta-marathon-2027-02-28-half",
@@ -663,7 +681,9 @@
   "country": "Malta",
   "date": "2027-02-28",
   "distance": "half",
-  "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf"
+  "source": "https://athleticsmalta.com/wp-content/uploads/2026/10/2027-Road-Running-Calendar-FINAL-1.pdf",
+  "website": "https://maltamarathon.com",
+  "facebook": "https://www.facebook.com/themaltamarathon"
  },
  {
   "id": "fidal-maratonina-del-golfo-2027-02-28-half",
@@ -673,7 +693,8 @@
   "date": "2027-02-28",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.endu.net/it/events/maratonina-del-golfo"
  },
  {
   "id": "roma-ostia-2027",
