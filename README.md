@@ -1,6 +1,7 @@
 # RaceFinder
 
 [![Controllo sintassi Python](https://github.com/ceck08/racefinder/actions/workflows/python-syntax.yml/badge.svg)](https://github.com/ceck08/racefinder/actions/workflows/python-syntax.yml)
+[![Aggiornamento catalogo](https://github.com/ceck08/racefinder/actions/workflows/collect.yml/badge.svg)](https://github.com/ceck08/racefinder/actions/workflows/collect.yml)
 
 Anteprima privata del calendario per 10 km su strada e mezze maratone. Il sito statico include ricerca, filtri e preferiti salvati nel browser. Il catalogo contiene 362 schede in 29 Paesi, con date da novembre 2026 a dicembre 2027. Le gare sono ordinate per data e consultabili in gruppi di 24. Oltre all'elenco sono disponibili una vista calendario mensile, il filtro delle novità degli ultimi 30 giorni e l'esportazione di ogni gara nel calendario personale in formato iCalendar.
 
