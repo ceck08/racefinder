@@ -339,7 +339,8 @@
   "date": "2027-02-07",
   "distance": "10",
   "source": "https://www.fidal.it/upload/Piemonte/Calendari%20Regionali/2026%2010%2023%20Torino%20LENZUOLONE%202027%20ordine%20data.pdf",
-  "distanceKm": 10.0
+  "distanceKm": 10.0,
+  "website": "https://www.vigonechecorre.it"
  },
  {
   "id": "malta-hudson-race-series-three-cities-2027-02-07-10",
@@ -627,7 +628,8 @@
   "source": "https://www.aims-worldrunning.org/races/683.html",
   "city": "Tel Aviv",
   "addedAt": "2026-11-23",
-  "website": "https://www.tlvmarathon.co.il"
+  "website": "https://www.tlvmarathon.co.il",
+  "facebook": "https://www.facebook.com/kapaimactive"
  },
  {
   "id": "aims-tui-cyprus-marathon-2027-02-27-half",
@@ -704,7 +706,8 @@
   "date": "2027-02-28",
   "distance": "half",
   "source": "https://romaostia.it/regolamento/",
-  "website": "https://romaostia.it/regolamento/"
+  "website": "https://romaostia.it/regolamento/",
+  "facebook": "https://www.facebook.com/romaostiahalfmarathon"
  },
  {
   "id": "piemonte-1a-10km-alladiese-2027-03-07-10",
@@ -714,7 +717,8 @@
   "date": "2027-03-07",
   "distance": "10",
   "source": "https://www.fidal.it/upload/Piemonte/Calendari%20Regionali/2026%2010%2023%20Torino%20LENZUOLONE%202027%20ordine%20data.pdf",
-  "distanceKm": 9.8
+  "distanceKm": 9.8,
+  "website": "https://www.teamperetti.it"
  },
  {
   "id": "fidal-derthona-half-marathon-2027-03-07-half",
@@ -724,7 +728,9 @@
   "date": "2027-03-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.derthonahalfmarathon.it",
+  "facebook": "https://www.facebook.com/Azalai.squadra"
  },
  {
   "id": "lisbon-half-2027",
@@ -734,7 +740,8 @@
   "date": "2027-03-07",
   "distance": "half",
   "source": "https://maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon/",
-  "website": "https://maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon/"
+  "website": "https://maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon/",
+  "facebook": "https://www.facebook.com/MaratonaDeLisboa"
  },
  {
   "id": "fidal-lago-maggiore-half-marathon-mezza-maratona-xix-2027-03-07-half",
@@ -744,7 +751,9 @@
   "date": "2027-03-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://lmhm.it",
+  "facebook": "https://www.facebook.com/lagomaggiorehalfmarathon"
  },
  {
   "id": "fidal-maratonina-della-vittoria-2027-03-07-half",
@@ -754,7 +763,9 @@
   "date": "2027-03-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.maratoninadellavittoria.it",
+  "facebook": "https://www.facebook.com/maratoninadellavittoria"
  },
  {
   "id": "fidal-maratonina-di-treviglio-2027-03-07-half",
@@ -764,7 +775,9 @@
   "date": "2027-03-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.atleticatreviglio.it",
+  "facebook": "https://www.facebook.com/atletica.treviglio"
  },
  {
   "id": "fidal-mare-sale-half-marathon-2027-03-07-half",
@@ -784,7 +797,9 @@
   "date": "2027-03-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.equilibrarunningteam.it",
+  "facebook": "https://www.facebook.com/equilibrarunningteam"
  },
  {
   "id": "fidal-run-for-life-21km-2027-03-07-half",
@@ -794,7 +809,9 @@
   "date": "2027-03-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.runforlifeitaly.it",
+  "facebook": "https://www.facebook.com/runforlifeitaly"
  },
  {
   "id": "fidal-run-tune-up-2027-03-07-half",
@@ -804,7 +821,9 @@
   "date": "2027-03-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.bolognamarathon.run/run-tune-up",
+  "facebook": "https://www.facebook.com/bolognamarathon"
  },
  {
   "id": "fidal-strasimeno-half-marathon-2027-03-07-half",
@@ -814,7 +833,8 @@
   "date": "2027-03-07",
   "distance": "half",
   "source": "https://www.fidal.it/upload/files/Organizzazione/2027/Maratone%20e%20mezze%20maratone/Calendario%20Maratone%20e%20Mezze%20Maratone%202027%20agg.%2029%20settembre.pdf",
-  "distanceKm": 21.0975
+  "distanceKm": 21.0975,
+  "website": "https://www.strasimeno.it"
  },
  {
   "id": "event-vodafone-10k-2027-03-07-10",
